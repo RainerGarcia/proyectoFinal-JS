@@ -1,0 +1,260 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.encabezado{
+    
+    background-color: #e5e5e5;
+    margin-top: 0;
+    
+}
+
+.superior{
+    display: flex;
+    width: full;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.sup-img {
+    border-radius: 5rem;
+    margin-top: 1rem;
+    padding: 0;
+    width: 50rem;
+    height: 20rem;
+    display: block;
+
+}
+
+.cabecera>h1{
+
+    margin-top: 6rem;
+    display: flex;
+    font-size: 3rem;
+}
+
+.guitar-1{
+    display: block;
+}
+.guitar-2{
+    display: none;
+}
+
+.corchea-1{
+    display: block;
+}
+
+.corchea-2{
+    display: none;
+}
+
+.anuncio1,.anuncio2{
+    width: 17rem;
+    height: 40rem;
+    object-fit: initial;
+    margin-top: 2rem;
+
+}
+
+.opciones{
+    display: flex;
+    justify-content: end;
+    gap: 25rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.seleccion{
+    display: flex;
+    gap: 1rem;
+}
+
+.idioma,.nota{
+    border-radius: 1rem;
+    padding: 0.3rem;
+    box-shadow: 0 0 10px rgba(0,0,0,.3);
+}
+
+main{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+/* From Uiverse.io by cssbuttons-io */ 
+.toggle-border {
+    border-radius: 130px;
+    margin-bottom: 45px;
+    margin-right: 1rem;
+    padding: 1px 2px;
+    background: linear-gradient(to bottom right, white, rgba(220,220,220,.5)), white;
+    box-shadow: 0 0 16px rgba(0,0,0,.3);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    display: flex;
+    gap: 0.5rem;
+    padding-right: 10px;
+}
+   
+.toggle-border:last-child {
+margin-bottom: 0;
+}
+
+.toggle-border input[type="checkbox"] {
+display: none;
+}
+
+.toggle-border label {
+position: relative;
+display: inline-block;
+width: 65px;
+height: 20px;
+background: #b8b6b6;
+border-radius: 80px;
+cursor: pointer;
+box-shadow: inset 0 0 16px rgba(0,0,0,.3);
+transition: background .5s;
+}
+
+.toggle-border input[type="checkbox"]:checked + label {
+background: #0d0e0d;
+}
+
+.handle {
+position: absolute;
+top: -4px;
+left: 0.3px;
+width: 25px;
+height: 25px;
+border: 1px solid #e5e5e5;
+background: repeating-radial-gradient(circle at 50% 50%, rgba(200,200,200,.2) 0%, rgba(200,200,200,.2) 2%, transparent 2%, transparent 3%, rgba(200,200,200,.2) 3%, transparent 3%), conic-gradient(white 0%, silver 10%, white 35%, silver 45%, white 60%, silver 70%, white 80%, silver 95%, white 100%);
+border-radius: 50%;
+box-shadow: 3px 5px 10px 0 rgba(0,0,0,.4);
+transition: left .4s;
+}
+
+.toggle-border input[type="checkbox"]:checked + label > .handle {
+left: calc(100% - 35px + 10px);
+}
+
+.letra{
+    margin-left: 5rem;
+    width: 40rem;
+
+    overflow: auto;
+}
+
+.verso{
+    font-size: 1.4rem;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.acorde{
+    font-size: 1.5rem;
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+
+.espacio{
+    color: white;
+}
+.titulo{
+    text-align: center;
+}
+
+.pie{
+    height: auto;
+    background-color: #212529;
+    margin-top: 2rem;
+}
+
+
+.info{
+    font-family: Verdana;
+    color: #c2cad1;
+    display: flex;
+    justify-content: center;
+    gap: 15rem;
+    white-space: pre-line;
+    padding-top: 1rem;
+}
+
+.universidad{
+    display: flex;
+    justify-content: center;
+}
+
+.logo-uni{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+
+
+body.dark{
+    background-color: #212529;
+}
+
+header.dark{
+    background-color: #000000;
+}
+
+footer.dark{
+    background-color: #000000;
+}
+
+.verso.dark{
+    color: #adb5bd;
+}
+
+.acorde.dark{
+    color: #f77f00;
+    font-weight: 500;
+}
+
+.espacio.dark{
+    color: #212529;
+}
+
+.titulo.dark{
+    color: #c2cad1;
+}
+
+select.dark{
+    background-color: #6c757d;
+}
+
+.toggle-border.dark{
+    background-color: #6c757d;
+}
+
+.cabecera.dark{
+    color: #c2cad1;
+}
+
+.corchea-1.dark{
+    display: none;
+}
+.corchea-2.dark{
+    display: block;
+}
+
+.guitar-1.dark{
+    display: none;
+}
+.guitar-2.dark{
+    display: block;
+}
