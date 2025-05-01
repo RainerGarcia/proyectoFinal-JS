@@ -2,7 +2,6 @@ const cancion = document.getElementById("letra");
 idioma = document.getElementById("idioma");
 nota = document.getElementById("nota");
 mode = document.getElementById("mode-dark");
-
 //***************contenido******************
 let letra_coreano = `
 [Verse 1].
