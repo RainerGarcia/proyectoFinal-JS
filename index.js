@@ -110,110 +110,111 @@ ooh.
 
 let letra_español = `
 [Estrofa 1].
-$--------$C.
-Es el mismo día.
- $Am.
-Así que yo.
-  $G.
-Te llamo de nuevo.
-$F$----$Fm.
-Con los sentimientos que habia olvidado.
-$C.
+$---$C.
+Amanece, un nuevo dia.
+ $---$Am.
+y decido.
+  $------------$G.
+llamarte de nuevo.
+$F$---------------$Fm.
+hablando con la verdad.
+$--$C$----------------$Am.
 Ahora, finalmente, expongo.
-$Am$----$G.
+$----------------$G.
 Mi tonta sinceridad.
-$F$----$Fm.
-Lo siento que sea demasiado tarde.
+$-------$F$--------------$Fm.
+que no hice los dias atras.
 
 $-.
 [Pre-Coro].
-$$----$G.
-Queria haberte dicho.
-      $C.
-Que nací para amarte.
-$G$----$Am.
-Para amarte con todo mi corazón.
- $Em$----$F$----$Fm.
-Mi corazón no deja de latir por ti.
+$----$F$-------------$G.
+Queria hacertelo saber.
+      $.
+Que decidi amar.
+$C$-------------------$Am.
+amarte con todo mi corazón.
+$--------$F$----------------$Fm.
+ que no deja de latir, no deja de latir por ti.
 
 $-.
 [Coro].
-$C$----$G.
-Todavía te quiero todo el tiempo.
-$Am$----$F$----$C.
-Todavía, en una parte de mi corazón.
-$G$----$Am.
-Hay mucha nostalgia.
-$G$----$C.
-Esperando por ti.
-        $G.
-Te necesito todo el tiempo.
-$Am$----$F$---- $C.
-No puedo decir nada.
-$G$---- $Am.
-Me odio.
-$F$----$C$----$Em$----$F  $----  $C $---- $G $---- $F.
-Por estar perdido en el tiempo.
+$C$-----------------$G.
+eres una parte de mi.
+$Am$-------------$F.
+en una parte de mi corazón.
+$C.
+te extraño.
+$G$------------$Am.
+y Espero por ti.
+$-------$F.
+yo te quiero es a ti.
+$C$---------------$G.
+No pude hacer nada.
+$----$Am$-------------$F.
+Me odio, por no luchar por nuestro amor.
+$C$----------$G$----------$Am$---------$F$-----------$C.
+Por todo este tiempo perder, sin dar todo de mi.
+$G$---$F$----$Fm.
 
 $-.
 [Estrofa 2].
-$C.
-Es la misma noche.
-    $Am   $----                 $G.
-En una noche nublada, Te llamo en la nieba.
-$F       $----     $Fm.
-Una vez mas.
-$C       $----            $Am.
-Recuerdo la memoria.
-         $G.
-Que brillaba al otro lado del tiempo.
-$F       $----    $Fm.
-Cuando nos tomábamos de las manos firmemente.
+$--$C.
+Y hoy.
+$--------------$Am$-----------------------$G.
+lleno de mis errores, Te llamo una vez mas.
+$----$F$------------$Fm.
+por una oportunidad.
+$----$C$--------------------$Am.
+Recuerdo aquellos dias bonitos.
+$--------------$G.
+Tus ojos brillaban.
+$----$F$------$Fm.
+Al verme cantar.
 $-.
 [Pre-Coro].
-$F         $----        $G.
-Quería haberte dicho.
-      $C.
-Que nací para amarte.
-$G           $----         $Am.
-Para amarte con todo mi corazón.
-      $F       $----              $Fm.
-Tragué las palabras cuando dudé en decir: Te amo.
+$----$F$-------------$G.
+Queria hacertelo saber.
+      $.
+Que decidi amar.
+$C$-------------------$Am.
+amarte con todo mi corazón.
+$------$F$------------------$Fm.
+intente olvidarte pero, solo brillastes en mi ser.
 $-.
 [Coro].
-$C         $----            $G.
-Todavía te quiero todo el tiempo.
-$Am     $----           $F     $----         $C.
-Todavía, en una parte de mi corazón.
-$G      $----       $Am.
-Hay mucha nostalgia.
-$G   $----   $C.
-Esperando por ti.
-        G.
-Te necesito todo el tiempo.
-$Am   $----       $F      $----    $C.
-Corriendo hacia ti como un loco.
- $G       $----       $Am $---- $F.
-Abrazándote con mis brazos.
+$C$-----------------$G.
+eres una parte de mi.
+$Am$-------------$F.
+en una parte de mi corazón.
+$C.
+Te extraño.
+$G$------------$Am.
+y Espero por ti.
+$-------$F.
+yo te quiero es a ti.
+$C$---------$G$------$Am$---------$F.
+Quisiera Correr hacia donde tu estas.
+$C$-----------$G$------------------$F.
+Abrazarte y tenerte en mis brazos.
 $-.
 [Final].
-  $C$----  $G.
-Y quiero que sepas .
-$Am$----  $F   $----     $C.
-que eres la única razón.
-     $G    $----               $Am $---- $F.
-Por la cual aún respiro, por la cual aún vivo.
-   $C.
+  $F$----------------$C.
+quiero hacerte saber.
+$G$--------------$Am.
+que eres la razón.
+$F$------------$C$-----------$G$-----------$Am.
+Por la cual aún yo no me doy por vencido.
+  $F$----------$C.
 Y para decirte.
-$G    $----    $Am      $----  $F $----  $C.
+$G$-----------$Am.
 Mi sincero amor.
- $G        $----    $Am.
-Todos los recuerdos en los que me sentí amado.
-$F  $----          $C    $----   $Am.
-Son todas mis razones.
-$F  $----  $C   $----    $Am.
-La única razón.
-$F$-$C.
+$F$------------$C$--------$G$------------$F.
+Toda nuestra historia, aun vive en mi.
+$G$-----------------$C.
+Esta es mi decisión.
+$G$--------------$Am$----$F.
+eres mi decisión.
+$C$-$G$-$F.
 ooh.
 `;
 
