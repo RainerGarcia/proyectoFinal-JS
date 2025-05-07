@@ -192,9 +192,9 @@ y Espero por ti.
 $-------$F.
 yo te quiero es a ti.
 $C$---------$G$------$Am$---------$F.
-Quisiera Correr hacia donde tu estas.
+Quisiera Correr, hacia donde tu estas.
 $C$-----------$G$------------------$F.
-Abrazarte y tenerte en mis brazos.
+Abrazarte y decirte te amo.
 $-.
 [Final].
   $F$----------------$C.
@@ -202,7 +202,7 @@ quiero hacerte saber.
 $G$--------------$Am.
 que eres la razón.
 $F$------------$C$-----------$G$-----------$Am.
-Por la cual aún yo no me doy por vencido.
+Por la cual aún, no me doy por vencido.
   $F$----------$C.
 Y para decirte.
 $G$-----------$Am.
