@@ -129,7 +129,7 @@ $-.
 $----$F$-------------$G.
 Queria hacertelo saber.
       $.
-Que decidi amar.
+Que decidi
 $C$-------------------$Am.
 amarte con todo mi corazón.
 $--------$F$----------------$Fm.
@@ -146,7 +146,7 @@ te extraño.
 $G$------------$Am.
 y Espero por ti.
 $-------$F.
-yo te quiero es a ti.
+solo te quiero es a ti.
 $C$---------------$G.
 No pude hacer nada.
 $----$Am$-------------$F.
@@ -160,7 +160,7 @@ $-.
 $--$C.
 Y hoy.
 $--------------$Am$-----------------------$G.
-lleno de mis errores, Te llamo una vez mas.
+lleno de mis errores, Te busco una vez mas.
 $----$F$------------$Fm.
 por una oportunidad.
 $----$C$--------------------$Am.
@@ -174,7 +174,7 @@ $-.
 $----$F$-------------$G.
 Queria hacertelo saber.
       $.
-Que decidi amar.
+Que decidi
 $C$-------------------$Am.
 amarte con todo mi corazón.
 $------$F$------------------$Fm.
@@ -190,7 +190,7 @@ Te extraño.
 $G$------------$Am.
 y Espero por ti.
 $-------$F.
-yo te quiero es a ti.
+solo te quiero es a ti.
 $C$---------$G$------$Am$---------$F.
 Quisiera Correr, hacia donde tu estas.
 $C$-----------$G$------------------$F.
