@@ -129,7 +129,7 @@ $-.
 $----$F$-------------$G.
 Queria hacertelo saber.
       $.
-Que decidi
+Que decidi.
 $C$-------------------$Am.
 amarte con todo mi corazón.
 $--------$F$----------------$Fm.
@@ -174,7 +174,7 @@ $-.
 $----$F$-------------$G.
 Queria hacertelo saber.
       $.
-Que decidi
+Que decidi.
 $C$-------------------$Am.
 amarte con todo mi corazón.
 $------$F$------------------$Fm.
