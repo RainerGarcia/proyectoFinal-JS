@@ -127,9 +127,8 @@ que no hice los dias atras.
 $-.
 [Pre-Coro].
 $----$F$-------------$G.
-Queria hacertelo saber.
+Queria hacertelo saber, que decidi.
       $.
-Que decidi.
 $C$-------------------$Am.
 amarte con todo mi corazón.
 $--------$F$----------------$Fm.
@@ -144,9 +143,9 @@ en una parte de mi corazón.
 $C.
 te extraño.
 $G$------------$Am.
-y Espero por ti.
+Espero por ti.
 $-------$F.
-solo te quiero es a ti.
+solo te quiero a ti.
 $C$---------------$G.
 No pude hacer nada.
 $----$Am$-------------$F.
@@ -172,13 +171,12 @@ Al verme cantar.
 $-.
 [Pre-Coro].
 $----$F$-------------$G.
-Queria hacertelo saber.
+Queria hacertelo saber, que decidi.
       $.
-Que decidi.
 $C$-------------------$Am.
 amarte con todo mi corazón.
 $------$F$------------------$Fm.
-intente olvidarte pero, solo brillastes en mi ser.
+Quise olvidarte pero, brillastes en mi ser.
 $-.
 [Coro].
 $C$-----------------$G.
@@ -188,9 +186,9 @@ en una parte de mi corazón.
 $C.
 Te extraño.
 $G$------------$Am.
-y Espero por ti.
+Espero por ti.
 $-------$F.
-solo te quiero es a ti.
+solo te quiero a ti.
 $C$---------$G$------$Am$---------$F.
 Quisiera Correr, hacia donde tu estas.
 $C$-----------$G$------------------$F.
@@ -211,9 +209,9 @@ $F$------------$C$--------$G$------------$F.
 Toda nuestra historia, aun vive en mi.
 $G$-----------------$C.
 Esta es mi decisión.
-$G$--------------$Am$----$F.
+$G$--------------$Am$--$C.
 eres mi decisión.
-$C$-$G$-$F.
+$G$-$F$-$C.
 ooh.
 `;
 
